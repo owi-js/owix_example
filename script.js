@@ -1,4 +1,4 @@
-const button = document.getElementById('clickme');
+const button = document.getElementById('myButton');
 const output = document.getElementById('output');
 
 // Add event listener for interactivity
